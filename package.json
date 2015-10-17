@@ -1,6 +1,6 @@
 {
   "name": "vector-screencast-audioserver",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "This is audio upload server for the Vector Screencast project (https://github.com/simonroszival/vector-screencast).",
   "keywords": [
   ],
